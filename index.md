@@ -4,12 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student in Software Engineering at the School of Software, Dalian University of Technology. I received my B.Eng. and M.Eng. degrees in Software Engineering from Dalian University of Technology in 2020 and 2023, respectively.
+
+My research interests include multi-view learning and medical data analysis.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** multi-view learning
+- **Machine Learning:** medical data analysis
 
 ## News
 
