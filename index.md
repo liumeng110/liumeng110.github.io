@@ -6,21 +6,16 @@ layout: homepage
 
 I am a Ph.D. student in Software Engineering at the School of Software, Dalian University of Technology. I received my B.Eng. and M.Eng. degrees in Software Engineering from Dalian University of Technology in 2020 and 2023, respectively.
 
-My research interests include multi-view learning and medical data analysis.
-
 
 ## Research Interests
 
-- **Computer Vision:** multi-view learning
-- **Machine Learning:** medical data analysis
+- **Multi-view learning:** multi-view clustering, multi-view classification
+- **Medical data analysis:** time series forecasting, image semantic segmentation
 
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[2026. 4]** Two papers about multi-view clustering are accepted to IJCAI 2026.
 
 
 
@@ -33,23 +28,24 @@ My research interests include multi-view learning and medical data analysis.
 ## Selected Publication
 
 - **2026**
-  - IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR 2024**)
-  - International Conference on Machine Learning (**ICML 2024**)
-  - Conference on Neural Information Processing Systems (**NeurIPS 2024**)
-
+  - Double-incomplete multi-view clustering with self-induced semantic label diffusion (**Information Sciences CCF-B**)
+  - Content-style Disentanglement Guided Representation Learning for Deep Incomplete Multi-view Clustering  (**IJCAI CCF-B**)
+  - PRIME: A Decoupled Multi-Agent Actor-Critic for Multi-view Clustering  (**IJCAI CCF-B**)
+  - Modwkan: Harnessing Maximal Overlap Discrete Wavelet Transform and Kan for Time Series Forecasting (**ICASSP CCF-B**)
+  - Long-Tailed Time Series Classification with Noisy Labels  (**ICASSP CCF-B**)
+  - LKAFormer: A lightweight kolmogorov-arnold transformer model for image semantic segmentation  (**ACM Transactions on Intelligent Systems and Technology**)
+  - Information-Driven Complementarity and Consistency Mining for Multi-View Clustering  (**SPL CCF-C**)
+ 
 
 - **2025**
-  - IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR 2024**)
-  - International Conference on Machine Learning (**ICML 2024**)
-  - Conference on Neural Information Processing Systems (**NeurIPS 2024**)
+  - Empowering Sustainability in Power Grids: A Multi-Scale Adaptive Load Forecasting Framework with Expert Collaboration (**Sustainability**)
+  - Dynamic-static feature fusion with multi-scale attention for continuous blood glucose prediction (**ICASSP CCF-B**)
+  - LLM-Empowered Time Series Prediction with Cross-Modal Fusion (**BIBM CCF-B**)
 
 
 - **2024**
-  - IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR 2024**)
-  - International Conference on Machine Learning (**ICML 2024**)
-  - Conference on Neural Information Processing Systems (**NeurIPS 2024**)
-
-
+  - Deep multiview adaptive clustering with semantic invariance (**TNNLS CCF-B**)
+  - Deep incomplete multiview clustering via information bottleneck for pattern mining of data in extreme-environment IoT (**IOTJ CCF-C**)
 
 
 
@@ -61,7 +57,7 @@ My research interests include multi-view learning and medical data analysis.
   - IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR 2024**)
   - International Conference on Machine Learning (**ICML 2024**)
   - Conference on Neural Information Processing Systems (**NeurIPS 2024**)
-  - International Conference on Learning Representations (**ICLR 2025**)
+  - International Conference on Learning Representations (**ICLR 2026**)
   - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2025**)
 
 ### Journal Service
@@ -70,5 +66,3 @@ My research interests include multi-view learning and medical data analysis.
   - IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
   - IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
   - Pattern Recognition (**PR**)
-  - Neural Networks
-  - Neurocomputing
