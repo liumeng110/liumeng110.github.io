@@ -54,15 +54,12 @@ I am a Ph.D. student in Software Engineering at the School of Software, Dalian U
 ### Conference Service
 
 - **Reviewer**
-  - IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR 2024**)
-  - International Conference on Machine Learning (**ICML 2024**)
-  - Conference on Neural Information Processing Systems (**NeurIPS 2024**)
-  - International Conference on Learning Representations (**ICLR 2026**)
-  - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2025**)
+  - ACM International Conference on Multimedia (**MM 2026**)
+  - International Joint Conferences on Artificial Intelligence (**IJCAI 2026**)
 
 ### Journal Service
 
 - **Reviewer**
   - IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
-  - IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
+  - IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
   - Pattern Recognition (**PR**)
