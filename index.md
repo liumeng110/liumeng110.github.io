@@ -9,8 +9,8 @@ I am a Ph.D. student in Software Engineering at the School of Software, Dalian U
 
 ## Research Interests
 
-- **Multi-view learning:** multi-view clustering, multi-view classification
-- **Medical data analysis:** time series forecasting, image semantic segmentation
+- **Multi-view learning:** multi-view clustering, multi-view classification, cross-view fusion
+- **Medical data analysis:** time series analysis, image semantic segmentation
 
 
 ## News
@@ -56,6 +56,7 @@ I am a Ph.D. student in Software Engineering at the School of Software, Dalian U
 - **Reviewer**
   - ACM International Conference on Multimedia (**MM 2026**)
   - International Joint Conferences on Artificial Intelligence (**IJCAI 2026**)
+  - IEEE International Conference on Bioinformatics and Biomedicine (**BIBM 2026**) 
 
 ### Journal Service
 
