@@ -56,7 +56,7 @@ I am a Ph.D. student in Software Engineering at the School of Software, Dalian U
 - **Reviewer**
   - ACM International Conference on Multimedia (**MM 2026**)
   - International Joint Conferences on Artificial Intelligence (**IJCAI 2026**)
-  - IEEE International Conference on Bioinformatics and Biomedicine (**BIBM 2026**) 
+  - IEEE International Conference on Bioinformatics and Biomedicine (**BIBM 2027**) 
 
 ### Journal Service
 
