@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in Software Engineering at the School of Software, Dalian University of Technology, Dalian China. I received my B.Eng. and M.Eng. degrees in Software Engineering from Dalian University of Technology in 2020 and 2023, respectively.
+I am a Ph.D. student in Software Engineering at the School of Software, Dalian University of Technology, Dalian China. I received my B.Eng. and M.Eng. degrees in Software Engineering from Dalian University of Technology in 2020 and 2023, respectively.  
 
 
 ## Research Interests
