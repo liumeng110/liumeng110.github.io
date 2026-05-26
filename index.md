@@ -29,7 +29,7 @@ I am a Ph.D. student in Software Engineering at the School of Software, Dalian U
 
 - **2026**
   - **Deep Time Series Contrastive Clustering with Cross-view Reliable Cluster Diffusion**. Zhou Yu, **Liu Meng**(共一), Chen shi, Chen Zhikui.  (**ESWA, CCF-C**)
-  - **Double-incomplete multi-view clustering with self-induced semantic label diffusion**. Zhikui Chen, **Liu Meng**, Yuzhe Li, Hao Zheng, Zhenjiao Liu, Hongwei Zhang, Liang Zhao.  (**Information Sciences CCF-B**)
+  - **Double-incomplete multi-view clustering with self-induced semantic label diffusion**. Zhikui Chen, **Liu Meng**, Yuzhe Li, Zheng Hao, Liu Zhenjiao, Zhang Hongwei, Zhao Liang.  (**Information Sciences CCF-B**)
   - **Content-style Disentanglement Guided Representation Learning for Deep Incomplete Multi-view Clustering**. Ji Enze, **Liu Meng**, Li Yuzhe, Chen Zhikui.  (**IJCAI CCF-B**)
   - **PRIME: A Decoupled Multi-Agent Actor-Critic for Multi-view Clustering**. Gao Jing, Liu Xinxin, Li Peng, Zhang Jianing, **Liu Meng**, Zhang Qingchen.   (**IJCAI CCF-B**)
   - **Modwkan: Harnessing Maximal Overlap Discrete Wavelet Transform and Kan for Time Series Forecasting**. Chen Zhikui, Huang Xiayin, **Liu Meng** (**ICASSP CCF-B**)
