@@ -40,7 +40,7 @@ I am a Ph.D. student in Software Engineering at the School of Software, Dalian U
   Chen Zhikui, Huang Xiayin, **Liu Meng** 
   - **Long-Tailed Time Series Classification with Noisy Labels**. (**ICASSP CCF-B**)\\
   Chen Zhikui, Zhou Yu, **Liu Meng**.  
-  - **LKAFormer: A lightweight kolmogorov-arnold transformer model for image semantic segmentation**. (**ACM Transactions on Intelligent Systems and Technology**)\\ 
+  - **LKAFormer: A lightweight kolmogorov-arnold transformer model for image semantic segmentation**. (**ACM Transactions on Intelligent Systems and Technology**)\\
   Yin Shoulin, Wang Liguo, Chen Tao, Huang Huafei, Gao Jing, Zhang Jianing, **Liu Meng**, Li Peng, Xu Chengpei.  
   
  
