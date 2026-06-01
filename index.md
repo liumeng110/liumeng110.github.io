@@ -36,7 +36,7 @@ I am a Ph.D. student in Software Engineering at the School of Software, Dalian U
   Ji Enze, **Liu Meng**, Li Yuzhe, Chen Zhikui.  
   - **PRIME: A Decoupled Multi-Agent Actor-Critic for Multi-view Clustering**. (**IJCAI CCF-B**)\\
   Gao Jing, Liu Xinxin, Li Peng, Zhang Jianing, **Liu Meng**, Zhang Qingchen. 
-  - **Modwkan: Harnessing Maximal Overlap Discrete Wavelet Transform and Kan for Time Series Forecasting**. (**ICASSP CCF-B**)\\ 
+  - **Modwkan: Harnessing Maximal Overlap Discrete Wavelet Transform and Kan for Time Series Forecasting**. (**ICASSP CCF-B**)\\
   Chen Zhikui, Huang Xiayin, **Liu Meng** 
   - **Long-Tailed Time Series Classification with Noisy Labels**. (**ICASSP CCF-B**)\\
   Chen Zhikui, Zhou Yu, **Liu Meng**.  
