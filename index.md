@@ -57,9 +57,9 @@ I am a Ph.D. student in Software Engineering at the School of Software, Dalian U
 
 
 - **2024**
-  - **Deep multiview adaptive clustering with semantic invariance**. (**TNNLS CCF-B**) \\
+  - **Deep multiview adaptive clustering with semantic invariance**. (**TNNLS CCF-B**)
   Gao Jing, **Liu Meng**, Li Peng, Zhang Jianing, Chen Zhikui. 
-  - **Deep incomplete multiview clustering via information bottleneck for pattern mining of data in extreme-environment IoT**. (**IOTJ CCF-C**) \\
+  - **Deep incomplete multiview clustering via information bottleneck for pattern mining of data in extreme-environment IoT**. (**IOTJ CCF-C**)
   Gao Jing,  **Liu Meng**, Li Peng, Laghari Asif Ali, Javed Abdul Rehman, Victor, Nancy, Gadekallu, Thippa Reddy. 
 
 
