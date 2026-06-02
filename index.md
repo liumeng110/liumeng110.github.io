@@ -22,13 +22,13 @@ I am a Ph.D. student in Software Engineering at the School of Software, Dalian U
 <!-- {% include_relative _includes/publications.md %} -->
 
 <!-- {% include_relative _includes/services.md %} -->
+## Award
 
 
-
-##  Publication
+## Selected  Publication
 
 - **2026**
-  - **Deep Time Series Contrastive Clustering with Cross-view Reliable Cluster Diffusion**.(**ESWA, CCF-C**)\\
+  - **Deep Time Series Contrastive Clustering with Cross-view Reliable Cluster Diffusion**.(**ESWA CCF-C**)\\
   Zhou Yu, **Liu Meng**(共一), Chen shi, Chen Zhikui*.  
   - **Double-incomplete multi-view clustering with self-induced semantic label diffusion**. (**Information Sciences CCF-B**)\\
   Zhikui Chen, **Liu Meng**, Yuzhe Li, Zheng Hao, Liu Zhenjiao, Zhang Hongwei, Zhao Liang.  
@@ -48,8 +48,6 @@ I am a Ph.D. student in Software Engineering at the School of Software, Dalian U
 - **2025**
   - **Information-Driven Complementarity and Consistency Mining for Multi-View Clustering**. (**SPL CCF-C**)\\
   **Liu Meng**, Li Yuzhe, Chen Zhikui, Lin Yilong.  
-  - **Empowering Sustainability in Power Grids: A Multi-Scale Adaptive Load Forecasting Framework with Expert Collaboration**. (**Sustainability**)\\
-   Tian Zengyao, Deng Wenchen, **Liu Meng**, Lv Li, Chen Zhikui. 
   - **Dynamic-static feature fusion with multi-scale attention for continuous blood glucose prediction**. (**ICASSP CCF-B**)\\
    Gao Jing, Guo Chenhua, Liu Yingshu, Li Peng, Zhang Jianing, **Liu Meng**. 
   - **LLM-Empowered Time Series Prediction with Cross-Modal Fusion**.(**BIBM CCF-B**) \\
