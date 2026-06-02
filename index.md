@@ -46,7 +46,7 @@ I am a Ph.D. student in Software Engineering at the School of Software, Dalian U
  
 
 - **2025**
-  - **Information-Driven Complementarity and Consistency Mining for Multi-View Clustering**. (**SPL CCF-C**)\\ 
+  - **Information-Driven Complementarity and Consistency Mining for Multi-View Clustering**. (**SPL CCF-C**)\\
   **Liu Meng**, Li Yuzhe, Chen Zhikui, Lin Yilong.  
   - **Empowering Sustainability in Power Grids: A Multi-Scale Adaptive Load Forecasting Framework with Expert Collaboration**. (**Sustainability**)\\
    Tian Zengyao, Deng Wenchen, **Liu Meng**, Lv Li, Chen Zhikui. 
