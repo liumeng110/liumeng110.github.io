@@ -17,7 +17,7 @@ I am a Ph.D. student in Software Engineering at the School of Software, Dalian U
 
 <!-- {% include_relative _includes/services.md %} -->
 ## Award
- - 辽宁省博士后创新创业大赛优胜奖(排名第四)
+ - 辽宁省博士后创新创业大赛优胜奖(2025 排名第四)
 
 ## Selected  Publication
 
