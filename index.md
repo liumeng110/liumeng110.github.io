@@ -24,7 +24,7 @@ I am a Ph.D. student in Software Engineering at the School of Software, Dalian U
 - **2026**
   - *Deep Time Series Contrastive Clustering with Cross-view Reliable Cluster Diffusion*.(**ESWA CCF-C**)\\
   Zhou Yu, **Liu Meng**(共一), Chen shi, Chen Zhikui\*.  
-  - ***Double-incomplete multi-view clustering with self-induced semantic label diffusion***. (**Information Sciences CCF-B**)\\
+  - *Double-incomplete multi-view clustering with self-induced semantic label diffusion*. (**Information Sciences CCF-B**)\\
   Zhikui Chen, **Liu Meng**, Yuzhe Li, Zheng Hao, Liu Zhenjiao, Zhang Hongwei, Zhao Liang\*.  
   - *Content-style Disentanglement Guided Representation Learning for Deep Incomplete Multi-view Clustering*. (**IJCAI CCF-B**)\\
   *Ji Enze, **Liu Meng**, Li Yuzhe, Chen Zhikui\**.  
@@ -32,7 +32,7 @@ I am a Ph.D. student in Software Engineering at the School of Software, Dalian U
   Gao Jing, Liu Xinxin, Li Peng\*, Zhang Jianing, **Liu Meng**, Zhang Qingchen\*. 
   - *Modwkan: Harnessing Maximal Overlap Discrete Wavelet Transform and Kan for Time Series Forecasting*. (**ICASSP CCF-B**)\\
   Chen Zhikui*, Huang Xiayin, **Liu Meng** 
-  - **Long-Tailed Time Series Classification with Noisy Labels**. (**ICASSP CCF-B**)\\
+  - *Long-Tailed Time Series Classification with Noisy Labels*. (**ICASSP CCF-B**)\\
   Chen Zhikui*, Zhou Yu, **Liu Meng**.  
   - *LKAFormer: A lightweight kolmogorov-arnold transformer model for image semantic segmentation*. (**ACM Transactions on Intelligent Systems and Technology**)\\
   Yin Shoulin, Wang Liguo, Chen Tao\*, Huang Huafei, Gao Jing, Zhang Jianing, **Liu Meng**, Li Peng*, Xu Chengpei.  
