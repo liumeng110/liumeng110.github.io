@@ -22,14 +22,14 @@ I am a Ph.D. student in Software Engineering at the School of Software, Dalian U
 ## Selected  Publication
 
 - **2026**
-  - **Deep Time Series Contrastive Clustering with Cross-view Reliable Cluster Diffusion**.(**ESWA CCF-C**)\\
-  *Zhou Yu, **Liu Meng**(共一), Chen shi, Chen Zhikui\**.  
+  - ***Deep Time Series Contrastive Clustering with Cross-view Reliable Cluster Diffusion***.(**ESWA CCF-C**)\\
+  Zhou Yu, **Liu Meng***(共一), *Chen shi, Chen Zhikui\*.  
   - **Double-incomplete multi-view clustering with self-induced semantic label diffusion**. (**Information Sciences CCF-B**)\\
-  *Zhikui Chen, **Liu Meng**, Yuzhe Li, Zheng Hao, Liu Zhenjiao, Zhang Hongwei, Zhao Liang\**.  
+  Zhikui Chen, **Liu Meng**, Yuzhe Li, Zheng Hao, Liu Zhenjiao, Zhang Hongwei, Zhao Liang\*.  
   - **Content-style Disentanglement Guided Representation Learning for Deep Incomplete Multi-view Clustering**. (**IJCAI CCF-B**)\\
-  Ji Enze, **Liu Meng**, Li Yuzhe, Chen Zhikui.  
+  *Ji Enze, **Liu Meng**, Li Yuzhe, Chen Zhikui\**.  
   - **PRIME: A Decoupled Multi-Agent Actor-Critic for Multi-view Clustering**. (**IJCAI CCF-B**)\\
- *Gao Jing, Liu Xinxin, Li Peng*, Zhang Jianing, **Liu Meng**, Zhang Qingchen**. 
+  Gao Jing, Liu Xinxin, Li Peng\*, Zhang Jianing, **Liu Meng**, Zhang Qingchen\*. 
   - **Modwkan: Harnessing Maximal Overlap Discrete Wavelet Transform and Kan for Time Series Forecasting**. (**ICASSP CCF-B**)\\
   Chen Zhikui*, Huang Xiayin, **Liu Meng** 
   - **Long-Tailed Time Series Classification with Noisy Labels**. (**ICASSP CCF-B**)\\
@@ -52,7 +52,7 @@ I am a Ph.D. student in Software Engineering at the School of Software, Dalian U
   - **Deep multiview adaptive clustering with semantic invariance**. (**TNNLS CCF-B**)\\
   Gao Jing, **Liu Meng**, Li Peng*, Zhang Jianing, Chen Zhikui. 
   - **Deep incomplete multiview clustering via information bottleneck for pattern mining of data in extreme-environment IoT**. (**IOTJ CCF-C**)\\
-  Gao Jing,  **Liu Meng**, Li Peng*, Laghari Asif Ali*, Javed Abdul Rehman, Victor, Nancy, Gadekallu, Thippa Reddy. 
+  Gao Jing,  **Liu Meng**, Li Peng\*, Laghari Asif Ali\*, Javed Abdul Rehman, Victor, Nancy, Gadekallu, Thippa Reddy. 
 
 
 
