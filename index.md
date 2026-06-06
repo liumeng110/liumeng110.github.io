@@ -22,8 +22,10 @@ I am a Ph.D. student in Software Engineering at the School of Software, Dalian U
 ## Selected  Publication
 
 - **2026**
+  - *Uncertainty-aware Multi-modal Time Series Anomaly Detection via Reduced-order Evidence Fusion*.(**PR CCF-B**)\\
+  Li Qiucen , Wan Xingheng, Guo Huicen, Wang Wei, **Liu Meng**, Cui Yuning\*. 
   - *Deep Time Series Contrastive Clustering with Cross-view Reliable Cluster Diffusion*.(**ESWA CCF-C**)\\
-  Zhou Yu, **Liu Meng**(共一), Chen shi, Chen Zhikui\*.  
+  Zhou Yu, **Liu Meng**(共一), Chen shi, Chen Zhikui\*.   
   - *Double-incomplete multi-view clustering with self-induced semantic label diffusion*. (**Information Sciences CCF-B**)\\
   Zhikui Chen, **Liu Meng**, Yuzhe Li, Zheng Hao, Liu Zhenjiao, Zhang Hongwei, Zhao Liang\*.  
   - *Content-style Disentanglement Guided Representation Learning for Deep Incomplete Multi-view Clustering*. (**IJCAI CCF-B**)\\
