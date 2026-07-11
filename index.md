@@ -24,6 +24,8 @@ I am a Ph.D. student in Software Engineering at the School of Software, Dalian U
 - **2026**
   - *Bottom-up Consistent Structure Guided Flow Generation for Deep Incomplete Multi-view Clustering*.(**MM CCF-A**)\\
   **Liu Meng**, Chen Zhikui, Gao jing, Zhang Jianing, Li Peng, Zhang Qingchen. 
+  - *Codebook-assisted Deep Multi-view Information Bottleneck for Semantic Transmission*.(**Smart-IoT EI**)\\
+  **Liu Meng**, Wan Xingheng, Chen Zhikui\*, Zhang Shuhao, Jingshu Wang, Tang Zhangyang. 
   - *Uncertainty-aware Multi-modal Time Series Anomaly Detection via Reduced-order Evidence Fusion*.(**PR CCF-B**)\\
   Li Qiucen, Wan Xingheng, Guo Huicen, Wang Wei, **Liu Meng**, Cui Yuning\*. 
   - *Deep Time Series Contrastive Clustering with Cross-view Reliable Cluster Diffusion*.(**ESWA CCF-C**)\\
