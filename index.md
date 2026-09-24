@@ -17,8 +17,8 @@ I am a Ph.D. student in Software Engineering at the School of Software, Dalian U
 
 <!-- {% include_relative _includes/services.md %} -->
 ## Award
- - 辽宁省博士后创新创业大赛优胜奖(2025 排名第四)
- - 大连理工大学优秀研究生(2026)
+ - 辽宁省博士后创新创业大赛优胜奖 (2025 排名第四)
+ - 大连理工大学优秀研究生 (2025-2026)
 
 ## Selected  Publication
 
@@ -68,7 +68,8 @@ I am a Ph.D. student in Software Engineering at the School of Software, Dalian U
 ### Conference Service
 
 - **Reviewer**
-
+  - International Conference on Acoustics, Speech, and Signal Processing (**ICASSP 2027**)
+  - ‌IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR 2027**) 
   - International Conference on Learning Representations (**ICLR 2027**) 
   - Association for the Advancement of Artificial Intelligence (**AAAI 2027**)
   - ACM International Conference on Multimedia (**MM 2026**)
