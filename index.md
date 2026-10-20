@@ -8,7 +8,7 @@ I am a Ph.D. student in Software Engineering at the School of Software, Dalian U
 
 
 ## News
-- **[2026. 10]** A paper about time series blood glucose prediction is accepted to IOTJ.
+- **[2026. 10]** A paper about time series blood glucose prediction is accepted to IEEE Internet of Things Journal.
 - **[2026. 7]** A paper about incomplete multi-view clustering are accepted to ACM MM 2026.
 - **[2026. 4]** Two papers about multi-view clustering are accepted to IJCAI 2026.
 
